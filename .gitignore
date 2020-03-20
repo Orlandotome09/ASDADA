@@ -1,0 +1,58 @@
+### Java ###
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+### Eclipse ###
+.project
+.metadata
+.checkstyle
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings
+.loadpat
+.prefs
+
+### Maven ###
+target/
+drivers/
+
+### Spring Tools ###
+.metadata
+.apt_generated
+*.sw?
+.#*
+*#
+*~
+/build
+/code
+.factorypath
+.recommenders
+bin
+build
+lib/
+.springBeans
+interpolated*.xml
+dependency-reduced-pom.xml
+build.log
+_site/
+.*.md.html
+activemq-data
+overridedb.*
+.DS_Store
+dump.rdb
+transaction-logs
+
+### Geral ###
+/bin
+/Arquivos
